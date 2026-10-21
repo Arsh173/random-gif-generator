@@ -8,8 +8,7 @@ This application allows users to generate random GIFs instantly or search for GI
 
 ## 🚀 Live Demo
 
-> Coming Soon...
-
+🔗 **Live Website:** https://random-gif-generator-pearl.vercel.app/
 ---
 
 ## 📸 Screenshots
